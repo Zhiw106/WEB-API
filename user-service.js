@@ -2,7 +2,7 @@ const bcrypt = require('bcryptjs');
 const mongoose = require('mongoose');
 
 let mongoDBConnectionString =
-  '';// connection string
+  '';
 
 let Schema = mongoose.Schema;
 
